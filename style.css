@@ -1,0 +1,166 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.section-one{
+    display: flex;
+    background-image: url(img/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+   
+    background-position: left;
+}
+#indexone{
+    padding-top: 6%;
+}
+.order{
+    color: rgb(253, 94, 37);
+}
+.index-one{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 9%;
+}
+.index-one img{
+   width: 80%;
+   padding-left: 15%;
+}
+.orange{
+    color: orangered;
+}
+.add-button{
+    color: white;
+    padding: 7px 20px;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, rgb(253, 122, 99));
+    border-radius: 6px;
+    font-weight: 700;
+}
+.section-two{
+    background-image: url(img/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+}
+.index-two{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 9%;
+
+}
+.index-two img{
+    width: 60%;
+    padding-left:9%;
+}
+#indextwo{
+    padding-top: 12%;
+}
+.box-three{
+    display: flex;
+    margin: 5%;
+    
+
+}
+.box-img{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    padding: 2%;
+    margin: 1%;
+   
+   
+}
+.box-three img{
+    width: 70%;
+    margin-left: 16%;
+    border-radius: 10px;
+
+}
+.box-three h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section-three{
+    text-align: center;
+    margin-top: 6%;
+    
+}
+.section-three h1{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+}
+.box-four{
+    display: flex;
+    margin: 5%;
+    
+
+}
+
+.box-four img{
+    width: 70%;
+    margin-left: 16%;
+    border-radius: 10px;
+
+}
+.box-four h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section-four{
+    text-align: center;
+    margin-top: 6%;
+    
+}
+.section-four h1{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+}
+.box-five{
+    display: flex;
+    margin: 5%;
+    
+
+}
+
+.box-five img{
+    width: 70%;
+    margin-left: 16%;
+    border-radius: 10px;
+
+}
+.box-five h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.section-five{
+    text-align: center;
+    margin-top: 6%;
+    
+}
+.section-five h1{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 40px;
+}
+.section{
+    margin-bottom: 200px;
+}
+footer{
+  
+   background-color:rgb(228, 77, 22);
+   height: 150px;
+   text-align: center;
+
+}
+.orangee{
+    color: rgb(248, 217, 222);
+}
+footer h1{
+    padding-top: 1%;
+    margin-bottom: 0px;
+}
+
+footer img{
+    height: 60px;
+    width: 100px;
+
+
+}
