@@ -73,6 +73,7 @@ body{
     width: 70%;
     margin-left: 16%;
     border-radius: 10px;
+    height: 170px;
 
 }
 .box-three h3{
@@ -99,6 +100,8 @@ body{
     width: 70%;
     margin-left: 16%;
     border-radius: 10px;
+    height: 170px;
+    
 
 }
 .box-four h3{
@@ -116,7 +119,7 @@ body{
 }
 .box-five{
     display: flex;
-    margin: 5%;
+    margin: auto;
     
 
 }
@@ -125,6 +128,7 @@ body{
     width: 70%;
     margin-left: 16%;
     border-radius: 10px;
+    height: 130px;
 
 }
 .box-five h3{
